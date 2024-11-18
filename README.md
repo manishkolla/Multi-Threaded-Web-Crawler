@@ -113,7 +113,7 @@ Queue size: 0, Visited: 137
 4. **Run the program with the necessary dependencies**  
    Use this command to start the crawler:  
    ```
-   java -cp .;"jsoup-1.18.1.jar" "MultiWebCrawler"
+   java -cp .;"jsoup-1.18.1.jar" "MultiWebCrawler.java"
    ```
 
 5. **Provide input when prompted**  
