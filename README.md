@@ -1,4 +1,4 @@
-```markdown
+
 # Project Title: Multi-Threaded Web Crawler
 
 ## Description
@@ -44,4 +44,3 @@ The crawler ensures that only valid and unvisited links are processed, preventin
 
 2. **State File**:  
    A file named `crawler_state.txt` stores all the visited URLs. This file allows the crawler to resume from where it left off in future runs.
-```
