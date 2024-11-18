@@ -2,7 +2,6 @@
 # Project Title: Multi-Threaded Web Crawler
 
 ## Presentation URL: [View Presentation](https://docs.google.com/presentation/d/1tQZv701UJdozFVgLMoTphkwYL5Rg40xiu3kDLkCm4KI/edit?usp=sharing)
-## Presentation URL: <a href="https://docs.google.com/presentation/d/1tQZv701UJdozFVgLMoTphkwYL5Rg40xiu3kDLkCm4KI/edit?usp=sharing" target="_blank">View Presentation</a>
 
 
 ## Description
