@@ -101,7 +101,7 @@ Queue size: 0, Visited: 137
 1. **Clone the repository from Git**  
    Use the following command to clone the repository:  
    ```
-   git clone <repository_url>
+   git clone https://github.com/manishkolla/Multi-Threaded-Web-Crawler
    ```
 
 2. **Change the directory to the project directory**  
