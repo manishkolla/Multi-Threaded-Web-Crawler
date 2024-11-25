@@ -123,7 +123,6 @@ public class MultiWebCrawler {
         private void processPage(Document doc) {
             String title = doc.title();
             System.out.println("Title: " + title);
-            // Add additional logic for processing pages, e.g., saving content.
         }
     }
 
